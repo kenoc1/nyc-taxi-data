@@ -1,8 +1,7 @@
-sklearn
+scikit-learn
 pandas
 numpy
 lightgbm
-branca
 folium
 seaborn
 matplotlib
