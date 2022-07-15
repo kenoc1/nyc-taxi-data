@@ -1,0 +1,12 @@
+Jupyter
+dask
+pandas
+numpy
+seaborn
+matplotlib
+pyarrow
+plotly
+scikit-learn
+folium
+lightgbm
+keras

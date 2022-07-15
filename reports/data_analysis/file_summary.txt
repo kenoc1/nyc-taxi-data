@@ -1,0 +1,13 @@
+                          file_name  file_size  number_of_records
+0   yellow_tripdata_2019-01.parquet  105.32 mb            7696617
+1   yellow_tripdata_2019-02.parquet   98.57 mb            7049370
+2   yellow_tripdata_2019-03.parquet  110.64 mb            7866620
+3   yellow_tripdata_2019-04.parquet  105.04 mb            7475949
+4   yellow_tripdata_2019-05.parquet  106.31 mb            7598445
+5   yellow_tripdata_2019-06.parquet   98.14 mb            6971560
+6   yellow_tripdata_2019-07.parquet   89.53 mb            6310419
+7   yellow_tripdata_2019-08.parquet   85.83 mb            6073357
+8   yellow_tripdata_2019-09.parquet   92.61 mb            6567788
+9   yellow_tripdata_2019-10.parquet  101.37 mb            7213891
+10  yellow_tripdata_2019-11.parquet    96.2 mb            6878111
+11  yellow_tripdata_2019-12.parquet   96.36 mb            6896317
