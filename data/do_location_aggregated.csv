@@ -1,4 +1,4 @@
-DOLocationID,pickup_count,trip_distance_average,minutes_average,total_amount_average
+DOLocationID,dropoff_count,trip_distance_average,minutes_average,total_amount_average
 1,159621,17.34652076176972,41.942580139384354,96.81342846490666
 2,87,10.000563492063492,28.57355654761905,38.624983465608466
 3,7327,13.448016426908701,34.59648311974612,48.10757034270173
